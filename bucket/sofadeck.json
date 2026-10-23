@@ -1,5 +1,5 @@
 {
-    "version": "1.0.11",
+    "version": "1.0.12",
     "description": "Use your phone as a PC remote: a customizable button deck, trackpad and voice remote for Windows, no phone app needed.",
     "homepage": "https://www.sofadeck.com/",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "SofaDeck runs in the system tray. Open it, scan the QR code with your phone and type the 6-digit PIN. Settings live in %APPDATA%\\SofaDeck.",
     "architecture": {
         "64bit": {
-            "url": "https://www.sofadeck.com/download/SofaDeck-1.0.11-windows-x64.zip",
-            "hash": "3a1e282e7944f241fd89f0b6beb823c43f5fb86671fa45b2f9e87ae76049584f"
+            "url": "https://www.sofadeck.com/download/SofaDeck-1.0.12-windows-x64.zip",
+            "hash": "6802777aa6aedac29eec66292cd9350ea060f01c5497e95d3e8b8583241947ca"
         },
         "arm64": {
-            "url": "https://www.sofadeck.com/download/SofaDeck-1.0.11-windows-arm64.zip",
-            "hash": "e9ee5e65ac78cc3c8df189d8fb6ebd9fb3b3f1c5596cdf6d99b8a09139eeebb5"
+            "url": "https://www.sofadeck.com/download/SofaDeck-1.0.12-windows-arm64.zip",
+            "hash": "7ccdcec82eaea55e31b8c9d14afa56b27efdc0cdab30d4d775ae05614e067c1a"
         }
     },
     "bin": "SofaDeck.exe",
